@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: #75b79e;
   font-family: 'EB Garamond', serif;
-  color: $darkGray;
+  color: #fff;
 }
 
 .head-container {
@@ -162,7 +162,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
