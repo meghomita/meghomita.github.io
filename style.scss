@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: #75b79e;
+	background: $green;
   font-family: 'EB Garamond', serif;
-  color: #fff;
+  color: $white;
 }
 
 .head-container {
@@ -201,7 +201,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $pearl;
   cursor: pointer;
   font-family: 'Nunito', sans-serif;
   font-weight: 500;
@@ -236,7 +236,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 64px; // @TODO: Vertically middle align
+  margin-top: 48px; // @TODO: Vertically middle align
   margin-right: 30px;
   font-family: $helveticaNeue;
   font-size: 18px;
