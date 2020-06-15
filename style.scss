@@ -214,6 +214,8 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 27px;
+  font-family: 'Old Standard TT';
+  font-weight: 400;
 
   @include mobile {
     margin: 3px 0;
