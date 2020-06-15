@@ -191,6 +191,7 @@ img {
 
 .site-info {
   float: left;
+  margin-left: 25px;
 
   @include mobile {
     float: none;
@@ -204,16 +205,16 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: 'Nunito', sans-serif;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 54px;
   letter-spacing: 1px;
   margin-bottom: 10px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -15px 0 0 5px;
   color: $gray;
-  font-size: 27px;
+  font-size: 24px;
   font-family: 'Old Standard TT';
   font-weight: 400;
 
