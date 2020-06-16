@@ -176,25 +176,6 @@ img {
   }
 }
 
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 36px;
-  margin-left: 15px;
-  margin-bottom: 64px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 64px;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
 
 .site-info {
   float: left;
@@ -218,20 +199,8 @@ img {
   margin-bottom: 10px;
   a {
     &:hover, &:active {
-      text-decoration: none;
+      font-style: inherit;
     }
-  }
-}
-
-.site-description {
-  margin: -15px 0 0 5px;
-  color: $gray;
-  font-size: 24px;
-  font-family: 'Old Standard TT';
-  font-weight: 400;
-
-  @include mobile {
-    margin: 3px 0;
   }
 }
 
