@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Helpless - Why Aren’t We Talking about Gender in Hamilton?
 excerpt: “We are living in the age of Hamilton,” admitted Annette Gordon-Reed at a recent book talk. Reed’s comment is surprising - she’s a leading scholar on Thomas Jefferson, Hamilton’s rival. But her praise is not; nowadays, everyone loves Hamilton.
 
