@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minds at Work, The Secret Lives of the Schuyler Sisters
-excerpt: Lin-Manuel Miranda was first introduced to the Schuyler sisters while on vacation. The creator of the Broadway sensation ­Hamilton had brought along an unlikely beach read: Ron Chernow’s extensive biography Alexander Hamilton.
+excerpt: Lin-Manuel Miranda was first introduced to the Schuyler sisters while on vacation. The creator of the Broadway sensation ­Hamilton had brought along an unlikely beach read - Ron Chernow’s extensive biography Alexander Hamilton.
 
 ---
 
