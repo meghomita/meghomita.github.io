@@ -52,6 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 42px;
+  font-family: 'Playfair Display';
   line-height: 1.2;
   a {
     color: inherit;
@@ -287,6 +288,10 @@ nav {
 }
 
 .wrapper-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
