@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Minds at Work: The Secret Lives of the Schuyler Sisters
+title: Minds at Work, The Secret Lives of the Schuyler Sisters
 excerpt: Lin-Manuel Miranda was first introduced to the Schuyler sisters while on vacation. The creator of the Broadway sensation ­Hamilton had brought along an unlikely beach read: Ron Chernow’s extensive biography Alexander Hamilton. Miranda quickly devoured the book’s stories of the founder’s private life, especially his relationships with women, including the Schuylers. He immediately sensed the makings of a musical lurking within Chernow’s dramatic tale. The intimate details of Alexander’s liaisons are fraught and fascinating to be sure.
+
 ---
 
 Lin-Manuel Miranda was first introduced to the Schuyler sisters while on vacation. The creator of the Broadway sensation ­Hamilton had brought along an unlikely beach read: Ron Chernow’s extensive biography [Alexander Hamilton](http://www.penguinrandomhouse.com/books/292945/alexander-hamilton-by-ron-chernow/9780143034759/). Miranda quickly devoured the book’s stories of the founder’s private life, especially his relationships with women, including the Schuylers. He immediately sensed the makings of a musical lurking within Chernow’s dramatic tale. The intimate details of Alexander’s liaisons are fraught and fascinating to be sure. They are also largely lost to history. Struggling to resurrect these women, Chernow had created his own characterizations, filling in the blanks left by time and a history written by men. When Miranda picked up the book, Chernow’s characterizations became the blueprints for this season’s most notable female Broadway roles.
