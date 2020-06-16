@@ -2,6 +2,7 @@
 layout: post
 title: Why We Love Hamilton, A Musical About Men
 excerpt: Alexander Hamilton’s life story, for all its drama, was always an unlikely source for a smash hit on Broadway. Hamilton favored rule by the elite in an already elitist society. He was adulterous, impulsive and privileged. But Lin-Manuel Miranda, like many musical theatre composers before him, saw in this unlikely source the chance to reform and reframe history.
+
 ---
 
 Alexander Hamilton’s life story, for all its drama, was always an unlikely source for a smash hit on Broadway. Hamilton [favored rule by the elite](http://www.nytimes.com/2016/06/11/opinion/what-hamilton-forgets-about-alexander-hamilton.html?_r=0) in an already elitist society. He was adulterous, impulsive and privileged. But Lin-Manuel Miranda, like many musical theatre composers [before him](https://berkshireonstage.com/2010/06/03/was-sweeney-todd-a-real-person-a-serial-killer/), saw in this unlikely source the chance to reform and reframe history. Using hip-hop and musical theatre, the show’s diverse cast took Chernow’s biography and made it speak to the New York they saw around them. Hamilton: An American Musical is a piece of art rather than historical scholarship. But even here, free from the confines of historical reality, the story’s women remain caged by tradition. Steeped in the gendered history of musical theatre and hip-hop, Hamilton fails to reflect the complexity and centrality of its women.
