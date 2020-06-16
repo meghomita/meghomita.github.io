@@ -78,7 +78,7 @@ p {
 .entry {
   font-size: 22px;
   line-height: 1.5;
-  font-family: 'Old Standard TT';
+  font-family: 'Nunito';
   font-weight: 400;
   margin-bottom: 20px;
 }
@@ -280,6 +280,10 @@ nav {
     font-size: 20px;
     font-family: 'Old Standard TT';
   }
+}
+
+.post {
+  font-family: 'Playfair Display';
 }
 
 .wrapper-footer {
