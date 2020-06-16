@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minds at Work, The Secret Lives of the Schuyler Sisters
-excerpt: Lin-Manuel Miranda was first introduced to the Schuyler sisters while on vacation. The creator of the Broadway sensation ­Hamilton had brought along an unlikely beach read: Ron Chernow’s extensive biography Alexander Hamilton. Miranda quickly devoured the book’s stories of the founder’s private life, especially his relationships with women, including the Schuylers. He immediately sensed the makings of a musical lurking within Chernow’s dramatic tale. The intimate details of Alexander’s liaisons are fraught and fascinating to be sure.
+excerpt: Alexander Hamilton’s life story, for all its drama, was always an unlikely source for a smash hit on Broadway. Hamilton favored rule by the elite in an already elitist society. He was adulterous, impulsive and privileged. But Lin-Manuel Miranda, like many musical theatre composers before him, saw in this unlikely source the chance to reform and reframe history.
 
 ---
 
