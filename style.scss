@@ -86,9 +86,6 @@ a {
   text-decoration: none;
 	cursor: pointer;
   font-weight: 700;
-  &:hover, &:active {
-    font-style: italic;
-  }
 }
 
 ul, ol {
