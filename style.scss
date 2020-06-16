@@ -82,11 +82,12 @@ p {
   font-weight: 400;
 }
 a {
-  color: $blue;
+  color: #fcf9ea;
   text-decoration: none;
 	cursor: pointer;
+  font-weight: 700;
   &:hover, &:active {
-    color: $blue;
+    font-style: italic;
   }
 }
 
