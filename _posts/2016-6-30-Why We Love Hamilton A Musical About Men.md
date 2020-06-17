@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Why We Love Hamilton, A Musical About Men
 excerpt: Alexander Hamilton’s life story, for all its drama, was always an unlikely source for a smash hit on Broadway. Hamilton favored rule by the elite in an already elitist society. He was adulterous, impulsive and privileged. But Lin-Manuel Miranda, like many musical theatre composers before him, saw in this unlikely source the chance to reform and reframe history.
 
