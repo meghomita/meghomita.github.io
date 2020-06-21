@@ -5,7 +5,5 @@ permalink: /about/
 ---
 
 **About me**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In porta, sem condimentum scelerisque porta, nisl nunc elementum lorem, in pretium dui quam et massa. Sed semper leo vitae massa ultrices aliquet. Quisque egestas rhoncus molestie. Nunc ac enim eget enim tristique tempus. Nunc nulla nisl, dignissim eu ex vitae, semper pharetra tortor. Nullam velit eros, sollicitudin ut turpis id, molestie egestas nunc. Nam ex augue, lobortis ut consectetur eget, pulvinar eget elit.
+I'm passionate about helping people get the most out of the world around them through transformative educational experiences. I have experience creating and marketing educational content and data for all ages, as well as recruiting students and developing exciting programming. I recently obtained my MPhil in United States History at the University of Cambridge. I also graduated from Wellesley College in 2015 with a BA in American Studies and History.
 
-**More Information**<br>
-Quisque pellentesque massa id blandit vulputate. Duis et accumsan erat, sit amet rhoncus massa. Duis ac quam sed enim placerat tincidunt sed eget nunc. Morbi ut bibendum sapien, vel auctor felis. Nulla metus dolor, dignissim ut eros ac, dictum fermentum augue. In sit amet mattis felis, eu eleifend dui. Vivamus varius diam eget turpis rhoncus ornare. Cras ornare cursus pretium. Morbi vitae elementum orci.
