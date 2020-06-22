@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: History Together - Week One
-excerpt: “We are living in the age of Hamilton,” admitted Annette Gordon-Reed at a recent book talk. Reed’s comment is surprising - she’s a leading scholar on Thomas Jefferson, Hamilton’s rival. But her praise is not; nowadays, everyone loves Hamilton.
+excerpt: Below you will find the reading schedule for Week 1 of History Together, an online read-along focusing on works that illuminate American history through the lens of race. We will begin with Never Caught: The Washingtons' Relentless Pursuit of Their Runaway Slave, Ona Judge by Erica Armstrong Dunbar.
 
 ---
 
