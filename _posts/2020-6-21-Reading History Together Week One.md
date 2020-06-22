@@ -8,7 +8,7 @@ excerpt: Below you will find the reading schedule for Week 1 of History Together
 
 ## Dear Friends,
 
-Below you will find the reading schedule for Week 1 of History Together, an online read-along focusing on works that illuminate American history through the lens of race. We will begin with [*Never Caught: The Washingtons' Relentless Pursuit of Their Runaway Slave, Ona Judge*](ericaarmstrongdunbar.com/nevercaught-ericaarmstrongdunbar) by Erica Armstrong Dunbar. 
+Below you will find the reading schedule for Week 1 of History Together, an online read-along focusing on works that illuminate American history through the lens of race. We will begin with [*Never Caught: The Washingtons' Relentless Pursuit of Their Runaway Slave, Ona Judge*](http://ericaarmstrongdunbar.com/nevercaught-ericaarmstrongdunbar) by Erica Armstrong Dunbar. 
 
 Each day, I will share a few thoughts from that day's chapter. You can find my observations, as well as the ideas you all have shared using #HistoryTogether, collected here. I hope our daily reading is a time to reflect, individually and as a group, and to develop a community in the process.
 
