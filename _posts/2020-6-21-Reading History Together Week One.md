@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: History Together - Week One
-excerpt: Below you will find the reading schedule for Week 1 of History Together, an online read-along focusing on works that illuminate American history through the lens of race. We will begin with Never Caught: The Washingtons' Relentless Pursuit of Their Runaway Slave, Ona Judge by Erica Armstrong Dunbar.
+excerpt: Below you will find the reading schedule for Week 1 of History Together, an online read-along focusing on works that illuminate American history through the lens of race. We will begin with Never Caught - The Washingtons' Relentless Pursuit of Their Runaway Slave, Ona Judge by Erica Armstrong Dunbar.
 
 ---
 
