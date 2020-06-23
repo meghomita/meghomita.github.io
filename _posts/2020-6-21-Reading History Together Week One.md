@@ -19,7 +19,9 @@ Thank you so much for starting this journey with me!
 ## Be well,
 ## Carrington
 
-![Never Caught](https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/screen-shot-2017-02-16-at-11-19-43-pm.png)
+<p align="center">
+  <img width="300" height="425" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/screen-shot-2017-02-16-at-11-19-43-pm.png">
+</p>
 
 ## Week One Reading Schedule
 
