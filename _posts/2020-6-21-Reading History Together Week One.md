@@ -25,6 +25,18 @@ Thank you so much for starting this journey with me!
 
 **Monday, June 21.** Author's Note, Foreward & Chapter One: Betty's Daughter.
 
+In this opening, I am struck by Dunbar's footnote on the use of enslavement vs. slave, a topic that has been much discussed in the last few weeks. Reading this chapter, it is easy to forget how little historical evidence she has to go on.
+
+"Her distinctive name set her apart from her siblings and from the majority of the other bondmen and bondwomen who toiled with her in Virginia." For more on the power of names for black women, see Martha Jones in [this week's New York Times.](http://www.nytimes.com/2020/06/18/style/self-care/sojourner-truth-harriet-tubman-slavery-names.html)
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day1_1.png">
+</p>
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day1_2.png">
+</p>
+
 **Tuesday, June 22.** Chapter Two: New York-Bound.
 
 **Wednesday, June 23.** Chapter Three: New York in Black and White.
