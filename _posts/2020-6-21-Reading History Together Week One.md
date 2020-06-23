@@ -41,6 +41,14 @@ In this opening, I am struck by Dunbar's footnote on the use of enslavement vs. 
 
 **Tuesday, June 22.** Chapter Two: New York-Bound.
 
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day2_1.PNG">
+</p>
+
+Having just read Alexis Coe's *You Never Forget Your First*, I am intrigued by this version of Martha. 
+
+It remains a sad truth that a biography of an enslaved woman includes many pages about her owner, by necessity.
+
 **Wednesday, June 23.** Chapter Three: New York in Black and White.
 
 **Thursday, June 24.** Chapter Four: The Move to Philadelphia.
