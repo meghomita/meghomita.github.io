@@ -51,6 +51,20 @@ It remains a sad truth that a biography of an enslaved woman includes many pages
 
 **Wednesday, June 23.** Chapter Three: New York in Black and White.
 
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/940c862e46bc645d20a7b385d22ca410ce674715/images/Day3_1.PNG">
+</p>
+
+I was particularly struck at this early example of white privilege and the police.
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/940c862e46bc645d20a7b385d22ca410ce674715/images/Day3_2.PNG">
+</p>
+
+I'd love to know your reactions to this description of New York - the same New York described in the musical *Hamilton.*<br>
+
+Dunbar refers to Judge as a "changed woman," but I wonder how comfortable we are with this kind of inference? Is it a necessary evil when writing about those who did not leave diaries?
+
 **Thursday, June 24.** Chapter Four: The Move to Philadelphia.
 
 **Friday, June 25.** Chapter Five: The Blacks in the Family.
