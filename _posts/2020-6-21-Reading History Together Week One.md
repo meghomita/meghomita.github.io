@@ -67,6 +67,15 @@ Dunbar refers to Judge as a "changed woman," but I wonder how comfortable we are
 
 **Thursday, June 24.** Chapter Four: The Move to Philadelphia.
 
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day4_1.PNG">
+</p>
+
+Seriously, let me know. I'm torn on this one. Is it just a use of available sources? Or does it add something to our understanding of Ona's life?
+
+You can learn about the portrait long presumed to be Hercules [here.](http://www.inquirer.com/food/craig-laban/george-washington-slave-chef-cook-hercules-gilbert-stuart-painting-wrong-20190301.html)
+
+
 **Friday, June 25.** Chapter Five: The Blacks in the Family.
 
 **Saturday, June 26.** Chapter Six: Life in Philadelphia.
