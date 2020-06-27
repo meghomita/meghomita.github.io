@@ -78,6 +78,16 @@ You can learn about the portrait long presumed to be Hercules [here.](http://www
 
 **Friday, June 25.** Chapter Five: The Blacks in the Family.
 
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day5_1.PNG">
+</p>
+
+As you can see, having a slaveowning President was always controversial. 
+
+The title of this chapter really says it all. It is the heart of the argument, the hypocrisy (double think?) that allows Washington to get by as a slavery-neutral President. See Katie's comment below (and respond!!)
+
+I was also interested in Dunbar's assertion that Hercules employed "theatrics" to trick the Washingtons. Others have claimed he was simply offended.
+
 **Saturday, June 26.** Chapter Six: Life in Philadelphia.
 
 **Sunday, June 27.** Chapter Seven: The Wedding.
