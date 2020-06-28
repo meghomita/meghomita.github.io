@@ -90,4 +90,12 @@ I was also interested in Dunbar's assertion that Hercules employed "theatrics" t
 
 **Saturday, June 26.** Chapter Six: Life in Philadelphia.
 
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day6_1.PNG">
+</p>
+
+Today's discussion of Yellow Fever was painful to read, especially in light of [this op-ed](http://www.washingtonpost.com/outlook/black-people-arent-naturally-vulnerable-to-covid-19-thats-junk-race-science/2020/06/25/d04a5f98-b5d2-11ea-a8da-693df3d7674a_story.html) from this week. Just as today, Black Americans were asked to be "essential workers" during a pandemic, justified by a racist belief in their immunity from disease. 
+
+A new newsletter will go out tomorrow. Keep your eyes out! 
+
 **Sunday, June 27.** Chapter Seven: The Wedding.
