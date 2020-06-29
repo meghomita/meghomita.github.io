@@ -99,3 +99,11 @@ Today's discussion of Yellow Fever was painful to read, especially in light of [
 A new newsletter will go out tomorrow. Keep your eyes out! 
 
 **Sunday, June 27.** Chapter Seven: The Wedding.
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day7_1.PNG">
+</p>
+
+What a beautiful halfway point. Dunbar connects the evidence we do have to create a convincing argument as to the reason's behind Ona's choice. While we cannot know her feelings, this chapter is quite a compelling case. You might be interested to know that Thomas Law's two biracial children, unlike Ona, were accepted in American society and [attended Harvard and Yale,](http://www.google.com/books/edition/_/3x0-DwAAQBAJ?hl=en&gbpv=0) respectively. 
+
+It has been such a pleaure reading with you this week. Onward!
