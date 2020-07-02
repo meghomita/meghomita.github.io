@@ -33,44 +33,31 @@ We continue to be alone, together.
 **Monday, June 29.** Chapter Eight: The Fugitive.
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day1_1.png">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day8_1.png">
 </p>
 
 **Tuesday, June 30.** Chapter Nine: Slavery and Freedom in New Hampshire.
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day2_1.PNG">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day9_1.PNG">
 </p>
 
 **Wednesday, July 1.** Chapter Ten: A Close Call.
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/940c862e46bc645d20a7b385d22ca410ce674715/images/Day3_1.PNG">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day10_1.PNG">
 </p>
 
 **Thursday, July 2.** Chapter Eleven: The Negotiator.
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day4_1.PNG">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day11_1.PNG">
 </p>
 
 **Friday, July 3.** Chapter Twelve: Mrs. Staines.
 
-<p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day5_1.PNG">
-</p>
-
 **Saturday, July 4.** Chapter Thirteen: The Survivor.
 
-<p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day6_1.PNG">
-</p>
-
 **Sunday, July 5.** Epilogue: Ona's Sister: Philadelphia Costin.
-
-<p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day7_1.PNG">
-</p>
-
 
 **Wednesday, July 8.** Zoom Finale.
