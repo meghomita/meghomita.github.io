@@ -68,6 +68,14 @@ This chapter has been the most fascinating for me. The fact that Ona is able to 
 
 **Friday, July 3.** Chapter Twelve: Mrs. Staines.
 
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day12_1.PNG">
+</p>
+
+I am thinking a lot about Ona's freedom today. Confronted several times with evidence of her legal status, she asserted her liberty.
+
+Dunbar does a wonderful job highlighting the potential that freedom held for even the poorest of African Americans. Ona's story is also an interesting case study on the way that public opinion, rather than the law alone, can protect the vulnerable.
+
 **Saturday, July 4.** Chapter Thirteen: The Survivor.
 
 **Sunday, July 5.** Epilogue: Ona's Sister: Philadelphia Costin.
