@@ -78,6 +78,22 @@ Dunbar does a wonderful job highlighting the potential that freedom held for eve
 
 **Saturday, July 4.** Chapter Thirteen: The Survivor.
 
-**Sunday, July 5.** Epilogue: Ona's Sister: Philadelphia Costin.
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day13_1.jpg">
+</p>
+
+I hope that Ona's story made you see the Fourth of July a little differently this year. I would love to know what Ona thought about the holiday, and whether she celebrated, or perhaps preferred to commemorate alternative Black liberation holidays like Emancipation Day.
+
+For more on how Black Americans celebrated the Fourth in the 19th century, see [here](http://www.washingtonpost.com/outlook/2020/07/02/fourth-july-is-black-american-holiday/), [here](http://www.theatlantic.com/ideas/archive/2018/07/fourth-of-july-black-holiday/564320/) and [here.](http://repository.wellesley.edu/object/ir1009) Or simply take a look at my Instagram story highlight!
+
+**Sunday, July 5.** Epilogue: Ona's Sister: Philadelphia Costin. 
+
+<p align="center">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/Day14_1.PNG">
+</p>
+
+We've come to the end! I hope that you've enjoyed this book as much as I have. This epilogue and acknowledgements provide tempting glimpses into the rich fabric of African American history beyond Ona and her family. What do you hope to read next?
 
 **Wednesday, July 8.** Zoom Finale.
+
+I hope that you will join me on Wednesday for a very casual conversation about this book, Ona's story and our collective reading experience. All I ask is that you bring a quote from the book that surprised you. Zoom link [here](http://us02web.zoom.us/j/87615828672?pwd=MVBQdWt3Y0pXK0RLUEdUNFppa200QT09), password is Ona.
