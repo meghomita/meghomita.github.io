@@ -21,7 +21,7 @@ I hope that you are getting a lot out of this work. I have definitely been skimm
 ## Carrington
 
 <p align="center">
-  <img width="300" height="425" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/screen-shot-2017-02-16-at-11-19-43-pm.png">
+  <img width="300" height="425" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/BC.jpg">
 </p>
 
 ## Week One of Birthright Citizens Reading Schedule
@@ -43,7 +43,7 @@ I hope that you are getting a lot out of this work. I have definitely been skimm
 **Thursday, July 23.** Chapters Three & Four: Aboard the Constitution: Black Sailors and Citizenship at Sea and The City Courthouse: Everyday Scenes of Race and Law.
 
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/BC_Day4.png"">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/lcobrion/lcobrion.github.io/master/images/BC_Day4.png">
 </p>
 
 **Friday, July 24.** Chapter Five: Between the Constitution and the Discipline of the Church: Making Congregants Citizens.
