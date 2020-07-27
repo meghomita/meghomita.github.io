@@ -10,7 +10,7 @@ excerpt: Below you will find the reading schedule for Week 3 of History Together
 
 What a week!
 
-I feel like I have spent a lot of time with Birthright Citizens this week. So much is packed into these 127 pages!
+I feel like I have spent a lot of time with *Birthright Citizens* this week. So much is packed into these 127 pages!
 
 The major thing that has stuck out to me is how difficult this kind of research is. This book hasn't been written before because these stories (and these laws) are complicated and hard to find. I met Martha Jones last year and I can tell you that she is definitely a lawyer! She is also a skilled writer, and I'm glad we chose this book, even if it is dense and detailed. 
 
