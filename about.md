@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-**Meghomita Das**<br>  
-_Exploring the rock record for slow earthquake signatures._
+  
+**_Exploring the rock record for slow earthquake signatures._**
 
 _Structural Geology| Microtectonics | Rheology_
 
