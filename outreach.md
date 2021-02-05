@@ -3,9 +3,12 @@ layout: about
 title: Outreach
 permalink: /outreach/
 ---
+I have been involved in a number of outreach and science communication activities. Here is a highlight of the projects that I have been involved with:
 
+-Virtual Fossils Tour around Montreal, Canada. 
+
+...This project was developed with support from the Redpath Museum of Natural History, Canada and the Department of Earth and Planetary Sciences, McGill University, Canada. This virtual field trip guide takes the viewers through seven locations within the downtown area of Montreal and highlights the fossils embedded within the building stones of some historic buildings in Montreal. This trip was aimed for the general audience and was launched during McGill's Homecoming Weekend 2020 to 40 registered participants. 
   
-**I love Sean and I can not lie**
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
