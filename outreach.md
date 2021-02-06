@@ -11,6 +11,7 @@ I have been involved in a number of outreach and science communication activitie
 
 Enter link here. 
 Add the media story here. 
+PICTURES
 
 -**Metro@Monteregie: Building Stones of Montreal, Canada**
 
@@ -18,6 +19,7 @@ Add the media story here.
   
  Enter Link here.
  Add the media story here (WinSTEP one?)
+ PICTURES
  
  -**Equity, Diversity, and Inclusion (EDI) resources development**
  
@@ -25,9 +27,15 @@ Add the media story here.
    
  Enter Link here. Culture Chats and Christie's Interview
  
+ -**Young Scientist Volcanology Workshop Facilitator**<--maybe take this one out??
+ 
+   I was part of a team of volcanologists (Volcanology Group at McGill University) as a workshop facilitator for the Young Scientist Workshop, run by Redpath Museum of Natural History. This workshop was tuned for kids of ages 8-12 and was developed by Emily Mick and Fiona D'Arcy (fellow EPSers!). I was in charge of the seismology station where we discussed how the earth shakes closer to a volcanic eruption with a tabletop experimental demonstration of how seismographs record such ground shaking. The attendees took back new information on volcanology and how people prepare for such natural disasters. 
+ 
+PICTURES 
+
  -**Some Features**
  1. Women in STEM by Amanda Pareesa
- 2. Diverse Geologist Feature
+ 2. Diverse Geologist Feature PICTURES
  3. IIT Bombay 
  
   
