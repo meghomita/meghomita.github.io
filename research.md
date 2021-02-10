@@ -8,6 +8,7 @@ I worked on a variety of projects in the field of Structural Geology during my M
 
 
 ##**Deep Subduction Zone Dynamics**
+
   Large earthquakes can strike at any time. They cause damage to human lives, properties and trigger other catastrophic events like tsunamis. Development of early-alert systems requires understanding of processes that trigger earthquakes, which provides the time needed to mitigate damages and save lives.
 
 
