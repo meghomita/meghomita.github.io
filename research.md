@@ -7,7 +7,7 @@ permalink: /research/
 I worked on a variety of projects in the field of Structural Geology during my Masters and summer internships. Currently, I am in Prof Christie Rowe's Field Rheology Lab group (insert link here). Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
 
 
-+**Deep Subduction Zone Dynamics**
+..* **Deep Subduction Zone Dynamics**
  
  Large earthquakes can strike at any time. They cause damage to human lives, properties and trigger other catastrophic events like tsunamis. Development of early-alert systems requires understanding of processes that trigger earthquakes, which provides the time needed to mitigate damages and save lives.
 Subduction zones, where one tectonic plate dives under the other, host large earthquakes. About 20 years ago, scientists detected faint tremors coming from deep parts of subduction zones. In Cascadia, Canadian researchers described this signal as deep tremor and slip. The tremors were accompanied by the shift of the land surface toward the
@@ -20,8 +20,10 @@ transfer in the subduction zone. These estimates can be used to constrain tecton
   
   
   Things to add: pictures pictures, links to GSA/AGU Posters? 
-- Topic 2: Lateral variation in fault
-  Things to add: Intro lay abstract, pictures pictures (HiPER one maybe?)
+..* **Lateral Variation in the Katrol Hill Fault, Bhuj, near Gujarat, western India.**
+
+
+   The Kutch region of Gujarat in western India was the epicentre of the 2001 Mw 7.7 Bhuj Earthquake. Kutch boasts of several fault systems that served as epicenters for historic earthquakes and displacement along these faults helped shape the current landscape of the region. One of these fault systems is called the Katrol Hill Fault (KHF), bordered by the Katrol Hill Range. My project involved mapping the KHF fault segments to determine the variation in geometry of the thrust sheet. Displacement along this fault generated a fault propagation fold (FPF) with a slight variation in orientation due to fault rotation. The fault zone rocks, mostly sandstones with variable quantities of quartz and mica grains, experienced shallow crustal deformation. We determined the strain experienced by these rocks using the Normalized Fry method along a transport parallel transect. Tha hanging wall recorded higher strain than the footwall rocks. The microstructures developed in these rocks showed evidences of brittle fracturing and cataclastic flow, suggesting deformation in an elastico-frictional regime. 
 
 -Topic 3: Towanda Fault Zone
   Things to add: Project intro, goals and deliverables.
