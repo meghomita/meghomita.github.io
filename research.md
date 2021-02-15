@@ -19,14 +19,13 @@ Things to add: pictures pictures, links to GSA/AGU Posters?
 
 **Lateral Variation in the Katrol Hill Fault, Bhuj, near Gujarat, western India.**
 
-
-   This was my Master's Home project, supervised by Prof Malay Mukul at the Indian Institute of Technology, Bombay. The Kutch region of Gujarat in western India was the epicentre of the 2001 Mw 7.7 Bhuj Earthquake. Kutch boasts of several fault systems that served as epicenters for historic earthquakes and displacement along these faults helped shape the current landscape of the region. One of these fault systems is called the Katrol Hill Fault (KHF), bordered by the Katrol Hill Range. My project involved mapping the KHF fault segments to determine the variation in geometry of the thrust sheet. Displacement along this fault generated a fault propagation fold (FPF) with a slight variation in orientation due to fault rotation. The fault zone rocks, mostly sandstones with variable quantities of quartz and mica grains, experienced shallow crustal deformation. We determined the strain experienced by these rocks using the Normalized Fry method along a transport parallel transect. Tha hanging wall recorded higher strain than the footwall rocks. The microstructures developed in these rocks showed evidences of brittle fracturing and cataclastic flow, suggesting deformation in an elastico-frictional regime. 
+  This was my Master's Home project, supervised by Prof Malay Mukul at the Indian Institute of Technology, Bombay. The Kutch region of Gujarat in western India was the epicentre of the 2001 Mw 7.7 Bhuj Earthquake. Kutch boasts of several fault systems that served as epicenters for historic earthquakes and displacement along these faults helped shape the current landscape of the region. One of these fault systems is called the Katrol Hill Fault (KHF), bordered by the Katrol Hill Range. My project involved mapping the KHF fault segments to determine the variation in geometry of the thrust sheet. Displacement along this fault generated a fault propagation fold (FPF) with a slight variation in orientation due to fault rotation. The fault zone rocks, mostly sandstones with variable quantities of quartz and mica grains, experienced shallow crustal deformation. We determined the strain experienced by these rocks using the Normalized Fry method along a transport parallel transect. Tha hanging wall recorded higher strain than the footwall rocks. The microstructures developed in these rocks showed evidences of brittle fracturing and cataclastic flow, suggesting deformation in an elastico-frictional regime. 
    
    Things to add: pictures, poster link (HiPER)
 
-..* **Microstructural investigation of the Towanda Fault Zone, Pennsylvania, USA.**
+**Microstructural investigation of the Towanda Fault Zone, Pennsylvania, USA.**
   
-     As part of summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. 
+  As part of summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. 
 
   Things to add: Project intro, goals and deliverables.
 
