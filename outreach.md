@@ -11,6 +11,7 @@ I have been involved in a number of outreach and science communication activitie
 
 Enter link here. 
 Add the media story here. 
+Add the redpath cover story (Ingrid's story).
 PICTURES
 
 -**Metro@Monteregie: Building Stones of Montreal, Canada**
@@ -37,7 +38,7 @@ PICTURES
  1. Women in STEM by Amanda Pareesa
  2. Diverse Geologist Feature PICTURES
  3. IIT Bombay 
- 
+ 4. Quirks and Quarks interview
   
 
 
