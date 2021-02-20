@@ -23,9 +23,9 @@ Things to add: pictures pictures, links to GSA/AGU Posters?
    
    Things to add: pictures, poster link (HiPER)
 
-**Microstructural investigation of the Towanda Fault Zone, Pennsylvania, USA.**
+**Microstructural investigation of the Towanda Fault Zone in the Appalachian Plateau, Pennsylvania, USA.**
   
-  As part of summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. 
+  As part of my summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. The project started with the overview of the deformation stages along the Appalachian fold thrust belt. I focused on understanding the deformation phases at the Towanda Fault Zone, in northeastern Pennsylvania. Using field and microstructural observations, we deduced 3-4 phases of deformation as preserved by structural fabrics and overprinting relationships between the fabrics. In order to identify minor cryptic fault/fracture planes, we mapped and conducted fracture density counting along a horizontal transect within the Towanda fault zone. Our study revealed that several cryptic fracture planes is present once we mapped the microstructures to the outcrop scale observations. 
 
   Things to add: Project intro, goals and deliverables.
 
