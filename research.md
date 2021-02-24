@@ -25,12 +25,15 @@ Things to add: pictures pictures, links to GSA/AGU Posters?
 
 **Microstructural investigation of the Towanda Fault Zone in the Appalachian Plateau, Pennsylvania, USA.**
   
-  As part of my summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. The project started with the overview of the deformation stages along the Appalachian fold thrust belt. I focused on understanding the deformation phases at the Towanda Fault Zone, in northeastern Pennsylvania. Using field and microstructural observations, we deduced 3-4 phases of deformation as preserved by structural fabrics and overprinting relationships between the fabrics. In order to identify minor cryptic fault/fracture planes, we mapped and conducted fracture density counting along a horizontal transect within the Towanda fault zone. Our study revealed that several cryptic fracture planes is present once we mapped the microstructures to the outcrop scale observations. 
+  As part of my summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. The project started with the overview of the deformation stages along the Appalachian fold thrust belt. I focused on understanding the deformation phases at the Towanda Fault Zone, in northeastern Pennsylvania. Using field and microstructural observations, we deduced 3-4 phases of deformation as preserved by structural fabrics and overprinting relationships between the fabrics. In order to identify minor cryptic fault/fracture planes, we mapped and conducted fracture density counting along a horizontal transect within the Towanda fault zone. Our study revealed that several cryptic fracture planes is present once we mapped the microstructures to the outcrop scale observations. This project was supported by the S.N. Bose Scholars Program (2017) that allows select Indian students to pursue a funded internship project at a research institution in United States as part of India-United States of America collaboration efforts. 
 
   Things to add: Project intro, goals and deliverables.
 
--Topic 4: OSL stuff
-  Same as above.
+**Optically Stimulated Luminescence (OSL) Dating : Sample processing & analysis of Quaternary sediments from the western Indian basin of Gujarat**
+
+  As part of my undergraduate summer internship at the Institute of Seismological Research (ISR)-Gandhinagar (India), I did a project on using luminescence dating methods to determine the basinal uplift rate for the seismically active terrain of Gujarat in western India. I was mentored by Dr M.R. Kumar and Dr. Siddharth Prizomvala for this project. OSL dating provides reliable ages, especially for the age range where the radiocarbon dating methods are not feasible. I got an overview of the entire process of OSL dating from sample collection to data processing and analysis. I worked on quaternary sediments and terrace deposits accumulated along river basins that are cross-cut by active faults to determine uplift rates. In combination with sedimentological characteristics of the samples, I reconstructed the paleo-depositional and paleo-seismological history of one of the river basins in Gujarat. This project added on to the growing data base of paleoseismological uplift rates of the tectonically active Gujarat basin of India. 
+  
+  
   
 
 
