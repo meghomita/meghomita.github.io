@@ -17,6 +17,8 @@ Ancient subduction zone rocks are found in a few places at the Earth’s surface
 transfer in the subduction zone. These estimates can be used to constrain tectonic loading (stress accumulation) which controls the earthquake magnitude (size of the earthquake) and recurrence (time till the next large earthquake).
 Things to add: pictures pictures, links to GSA/AGU Posters? 
 
+Add Land Acknowledgement for Angel Island and McGill
+
 **Lateral Variation in the Katrol Hill Fault, Bhuj, near Gujarat, western India.**
 
   This was my Master's Home project, supervised by Prof Malay Mukul at the Indian Institute of Technology, Bombay. The Kutch region of Gujarat in western India was the epicentre of the 2001 Mw 7.7 Bhuj Earthquake. Kutch boasts of several fault systems that served as epicenters for historic earthquakes and displacement along these faults helped shape the current landscape of the region. One of these fault systems is called the Katrol Hill Fault (KHF), bordered by the Katrol Hill Range. My project involved mapping the KHF fault segments to determine the variation in geometry of the thrust sheet. Displacement along this fault generated a fault propagation fold (FPF) with a slight variation in orientation due to fault rotation. The fault zone rocks, mostly sandstones with variable quantities of quartz and mica grains, experienced shallow crustal deformation. We determined the strain experienced by these rocks using the Normalized Fry method along a transport parallel transect. Tha hanging wall recorded higher strain than the footwall rocks. The microstructures developed in these rocks showed evidences of brittle fracturing and cataclastic flow, suggesting deformation in an elastico-frictional regime. 
