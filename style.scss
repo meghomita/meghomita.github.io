@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: #75b79e;
-  font-family: 'Nunito', sans-serif;
+	background: #4B88A2;
+  font-family: 'Cooper Black', sans-serif;
   color: $white;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Cooper Black', sans-serif;
   color: #fcf9ea;
   font-weight: bold;
 
@@ -91,7 +91,7 @@ p {
 .entry {
   font-size: 22px;
   line-height: 1.5;
-  font-family: 'Nunito';
+  font-family: 'Cooper Black';
   font-weight: 400;
   margin-bottom: 20px;
   @include mobile {
@@ -146,7 +146,7 @@ img {
 .date {
   color: #fff;
   font-size: 18px;
-  font-family: 'Nunito';
+  font-family: 'Cooper Black';
 }
 
 // Specify the color of the selection
@@ -211,7 +211,7 @@ img {
   margin: 0;
   color: #fcf9ea;
   cursor: pointer;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Cooper Black', sans-serif;
   font-weight: 500;
   font-size: 40px;
   letter-spacing: 1px;
@@ -246,7 +246,7 @@ nav {
   float: right;
   margin-top: 30px; // @TODO: Vertically middle align
   margin-right: 30px;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Cooper Black', sans-serif;
   font-size: 20px;
   color: #fcf9ea;
 
@@ -302,7 +302,7 @@ nav {
 
   .read-more {
     font-size: 20px;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Cooper Black', sans-serif;
   }
 }
 
