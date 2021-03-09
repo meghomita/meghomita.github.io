@@ -1,3 +1,14 @@
+Options -Indexes -MultiViews
+
 RewriteEngine On
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ HTTPS://www.meghomita.com/$1 [R,L]
+
+#First rewrite any request to the wrong domain to use the correct one (here www.)
+RewriteCond %{HTTP_HOST} ^meghomita.com$ [NC]
+RewriteRule (.*) http://www.meghomita.com$1 [R=301,L] 
+
+#Now, rewrite to HTTPS:
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
