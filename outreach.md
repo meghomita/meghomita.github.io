@@ -9,7 +9,7 @@ I have been involved in a number of outreach and science communication activitie
 
   This field trip guide was developed with support from the Redpath Museum of Natural History, Canada and the Department of Earth and Planetary Sciences, McGill University, Canada. This virtual field trip guide takes the viewers through seven locations within the downtown area of Montreal and highlights the fossils embedded within the building stones of some historic buildings in Montreal. This trip was aimed for the general audience and was launched during McGill's Homecoming Weekend 2020. The interactive ArcGIS Story Maps platform is supported on all devices, making this whole field guide more accessible. 
 
--_Fossil Exploration Guide: [https://arcg.is/10q58u]_
+-_Fossil Exploration Guide in StoryMaps: [Fossil Exploration Guide](https://arcg.is/10q58u)_
 -_McGill Tribune article on the Guide: [Taking a virtual tour of McGill's stones and fossils](http://www.mcgilltribune.com/sci-tech/taking-a-virtual-tour-of-mcgills-stones-and-fossils-10142020/)_ 
 -_McGill Office of Science Education article on virtual field trips: [Storytelling by the points of a compass: how story maps can bring to life conference and course learning experiences](https://www.mcgill.ca/ose/channels/news/storytelling-points-compass-how-story-maps-can-bring-life-conference-and-course-learning-experiences-328243)_
 
