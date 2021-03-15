@@ -19,7 +19,8 @@ PICTURES
 
   This project was developed in collaboration with Redpath Museum of Natural History, Canada and the Department of Earth and Planetary Sciences, McGill University, Canada. This project consists of a set of virtual field trip guides, hosted on Google Earth platform. I was responsible for developing the *Building Stones of Montreal, Canada* guide. This trip is available in both French and English and is tuned towards geoscience enthusiasts at undergrad, CEGEP/High School level. The eleven locations of this trip spotlights different rock types used to construct the buildings, the quarries that supplied these rocks and how these stones shaped the architecture of this city. Each location features a short explanatory text, aided with videos of geologists explaining the geology of the building stones. I was responsible for developing the content of this field trip with media contribution from McGill's media team. This trip is supported on all devices, making this field guide more accessible. Other trips included in this project are: Kaleidoscope of research on Mont Saint Hilaire, Canada; Geology of Mont Royal.
   
- _[Metro@Montegie project:](https://www.mcgill.ca/eps/virtual-fieldtrips)_
+_[Metro@Montegie project:](https://www.mcgill.ca/eps/virtual-fieldtrips)_
+
 _[WinSTEP forward blog post about the project:](https://www.winstepforward.org/blog/2020/10/field-trips-time-covid-19/)_
 
  PICTURES
@@ -29,8 +30,10 @@ _[WinSTEP forward blog post about the project:](https://www.winstepforward.org/b
    As a graduate student member of the EDI committee of the Department of Earth and Planetary Sciences at McGill University, I am working with a wonderful team of fellow student members of our department on developing blog articles, faculty interviews, spotlight features that covers a wide range of topics such as incorporating indigenous knowledge into geosciences to new department EDI initiatives like Culture Chats. This project is currently developing and we hope to launch a host of articles over this year. I have linked some of the articles that have been published so far. I monitor the blog posts and occassionally help other students develop articles for the blog. 
    
  _[EDI Committee at Earth and Planetary Sciences, McGill University:](https://www.mcgill.ca/eps/edi-committee)
+ 
  _[Geoblog, EPS departmental blog:](https://blogs.mcgill.ca/eps/)_
- _[Article on Culture Chats, EPS-EDI initiative, authored by me:](https://www.mcgill.ca/eps/channels/news/divided-geography-yet-united-same-love-rocks-327667)
+
+_[Article on Culture Chats, EPS-EDI initiative, authored by me:](https://www.mcgill.ca/eps/channels/news/divided-geography-yet-united-same-love-rocks-327667)
  
  
 
