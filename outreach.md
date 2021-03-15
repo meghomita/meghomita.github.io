@@ -31,11 +31,11 @@ _[WinSTEP forward blog post about the project](https://www.winstepforward.org/bl
  
    As a graduate student member of the EDI committee of the Department of Earth and Planetary Sciences at McGill University, I am working with a wonderful team of fellow student members of our department on developing blog articles, faculty interviews, spotlight features that covers a wide range of topics such as incorporating indigenous knowledge into geosciences to new department EDI initiatives like Culture Chats. This project is currently developing and we hope to launch a host of articles over this year. I have linked some of the articles that have been published so far. I monitor the blog posts and occassionally help other students develop articles for the blog. 
    
- _[EDI Committee at Earth and Planetary Sciences, McGill University:](https://www.mcgill.ca/eps/edi-committee)
+ _[EDI Committee at Earth and Planetary Sciences, McGill University](https://www.mcgill.ca/eps/edi-committee)_
  
- _[Geoblog, EPS departmental blog:](https://blogs.mcgill.ca/eps/)_
+ _[Geoblog, EPS departmental blog](https://blogs.mcgill.ca/eps/)_
 
-_[Article on Culture Chats, EPS-EDI initiative, authored by me:](https://www.mcgill.ca/eps/channels/news/divided-geography-yet-united-same-love-rocks-327667)
+_[Article on Culture Chats, EPS-EDI initiative, authored by me](https://www.mcgill.ca/eps/channels/news/divided-geography-yet-united-same-love-rocks-327667)_
  
  
 
