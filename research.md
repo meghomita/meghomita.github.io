@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I worked on a variety of projects in the field of Structural Geology during my Masters and summer internships. Currently, I am in Prof Christie Rowe's Field Rheology Lab group (insert link here). Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
+I worked on a variety of projects in the field of Structural Geology during my Masters and summer internships. Currently, I am in Prof Christie Rowe's [Field Rheology Research group](https://www.eps.mcgill.ca/~crowe/) . Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
 
 
 **Deep Subduction Zone Dynamics**
