@@ -18,7 +18,7 @@ transfer in the subduction zone. These estimates can be used to constrain tecton
 Things to add: pictures pictures, 
 
 _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
-_GSA Fall meeting 2020 poster_ Load a pdf link? How?
+Load a pdf link? How?
 
 Add Land Acknowledgement for Angel Island and McGill
 
@@ -42,5 +42,5 @@ _[Summer Internship Blog for SN Bose](https://www.winstepforward.org/blog/2018/0
   
   
 
+![an image alt text]({{ site.baseurl }}/images/xkcd.jpg "Credits: xkcd")
 
-Add the further research is needed artwork
