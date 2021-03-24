@@ -19,7 +19,7 @@ Things to add: pictures pictures,
 
 _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
 
-![an image alt text]({{ site.baseurl }}/images/IMG_0020.jpg "outcrop angel island")   
+ 
 ![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")   
 
 
@@ -32,7 +32,7 @@ Add Land Acknowledgement for Angel Island and McGill
 How to add captions?
 
 ![an image alt text]({{ site.baseurl }}/images/Rann.jpg "RannofKutchfieldvisit")   
-![an image alt text]({{ site.baseurl }}/images/Hiroshima3.jpg "HiPER")   
+ 
 
 **Microstructural investigation of the Towanda Fault Zone in the Appalachian Plateau, Pennsylvania, USA.**
   
