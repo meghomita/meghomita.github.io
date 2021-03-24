@@ -20,7 +20,8 @@ Things to add: pictures pictures,
 _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
 
  
-![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")   
+![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")
+![an image alt text]({{ site.baseurl }}/images/IMG0020.jpg "angelislandoutcrop")
 
 
 Add Land Acknowledgement for Angel Island and McGill
