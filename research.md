@@ -31,7 +31,8 @@ Add Land Acknowledgement for Angel Island and McGill
   
 How to add captions?
 
-![an image alt text]({{ site.baseurl }}/images/Rann.jpg "RannofKutchfieldvisit")   
+![an image alt text]({{ site.baseurl }}/images/Rann.jpg "RannofKutchfieldvisit")
+![an image alt text]({{ site.baseurl }}/images/Hiroshima3.jpg "posterphoto")
  
 
 **Microstructural investigation of the Towanda Fault Zone in the Appalachian Plateau, Pennsylvania, USA.**
