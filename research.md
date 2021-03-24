@@ -18,6 +18,7 @@ transfer in the subduction zone. These estimates can be used to constrain tecton
 Things to add: pictures pictures, 
 
 _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
+
 ![an image alt text]({{ site.baseurl }}/images/IMG_0020.jpg "outcrop angel island")   
 ![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")   
 
@@ -29,6 +30,7 @@ Add Land Acknowledgement for Angel Island and McGill
   This was my Master's Home project, supervised by Prof Malay Mukul at the Indian Institute of Technology, Bombay. The Kutch region of Gujarat in western India was the epicentre of the 2001 Mw 7.7 Bhuj Earthquake. Kutch boasts of several fault systems that served as epicenters for historic earthquakes and displacement along these faults helped shape the current landscape of the region. One of these fault systems is called the Katrol Hill Fault (KHF), bordered by the Katrol Hill Range. My project involved mapping the KHF fault segments to determine the variation in geometry of the thrust sheet. Displacement along this fault generated a fault propagation fold (FPF) with a slight variation in orientation due to fault rotation. The fault zone rocks, mostly sandstones with variable quantities of quartz and mica grains, experienced shallow crustal deformation. We determined the strain experienced by these rocks using the Normalized Fry method along a transport parallel transect. Tha hanging wall recorded higher strain than the footwall rocks. The microstructures developed in these rocks showed evidences of brittle fracturing and cataclastic flow, suggesting deformation in an elastico-frictional regime. 
   
 How to add captions?
+
 ![an image alt text]({{ site.baseurl }}/images/Rann.jpg "RannofKutchfieldvisit")   
 ![an image alt text]({{ site.baseurl }}/images/Hiroshima3.jpg "HiPER")   
 
@@ -37,6 +39,7 @@ How to add captions?
   As part of my summer internship at University of Rochester, New York under the supervision of Prof Gautam Mitra, I did a minor project on the fault zone rocks of the Towanda Fault Zone. The project started with the overview of the deformation stages along the Appalachian fold thrust belt. I focused on understanding the deformation phases at the Towanda Fault Zone, in northeastern Pennsylvania. Using field and microstructural observations, we deduced 3-4 phases of deformation as preserved by structural fabrics and overprinting relationships between the fabrics. In order to identify minor cryptic fault/fracture planes, we mapped and conducted fracture density counting along a horizontal transect within the Towanda fault zone. Our study revealed that several cryptic fracture planes is present once we mapped the microstructures to the outcrop scale observations. This project was supported by the S.N. Bose Scholars Program (2017) that allows select Indian students to pursue a funded internship project at a research institution in United States as part of India-United States of America collaboration efforts. 
 
 _[Summer Internship Blog for SN Bose](https://www.winstepforward.org/blog/2018/08/meghomita-das-summer-2017-blog/)_
+
 ![an image alt text]({{ site.baseurl }}/images/Towanda1.jpg "Towanda map")
 ![an image alt text]({{ site.baseurl }}/images/MEGHOMITADAS2.jpg "Shenandoah")
 
