@@ -15,7 +15,7 @@ I have been involved in a number of outreach and science communication activitie
 
 -_McGill Office of Science Education article on virtual field trips: [Storytelling by the points of a compass: how story maps can bring to life conference and course learning experiences](https://www.mcgill.ca/ose/channels/news/storytelling-points-compass-how-story-maps-can-bring-life-conference-and-course-learning-experiences-328243)_
 
-PICTURES
+
 
 -**Metro@Monteregie: Building Stones of Montreal, Canada**
 
@@ -25,7 +25,8 @@ _[Metro@Montegie project](https://www.mcgill.ca/eps/virtual-fieldtrips)_
 
 _[WinSTEP forward blog post about the project](https://www.winstepforward.org/blog/2020/10/field-trips-time-covid-19/)_
 
- PICTURES
+![an image alt text]({{ site.baseurl }}/images/Museum1.jpg "museum1")
+
  
  -**Equity, Diversity, and Inclusion (EDI) resources development**
  
