@@ -26,7 +26,7 @@ _[Metro@Montegie project](https://www.mcgill.ca/eps/virtual-fieldtrips)_
 _[WinSTEP forward blog post about the project](https://www.winstepforward.org/blog/2020/10/field-trips-time-covid-19/)_
 
 ![an image alt text]({{ site.baseurl }}/images/Museum1.jpg "museum1")
-<span style="font-size:16px;">Looking at rocks!</span>
+<span style="font-size:16px;">Looking at rocks at the Museum of Beaux Arts, Montreal!</span>
 
  
  -**Equity, Diversity, and Inclusion (EDI) resources development**
