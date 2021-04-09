@@ -21,16 +21,22 @@ _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.c
 
  
 ![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")
+<span style="font-size:16px;">At the Tiburon ferry site, enroute to Angel Island, California. </span>
+
 ![an image alt text]({{ site.baseurl }}/images/IMG0020.jpg "angelislandoutcrop")
+<span style="font-size:16px;">Taking measurements at the Kayak Beach outcrop on Angel Island, California</span>
+
 
 **Lateral Variation in the Katrol Hill Fault, Bhuj, near Gujarat, western India.**
 
   This was my Master's Home project, supervised by Prof Malay Mukul at the Indian Institute of Technology, Bombay. The Kutch region of Gujarat in western India was the epicentre of the 2001 Mw 7.7 Bhuj Earthquake. Kutch boasts of several fault systems that served as epicenters for historic earthquakes and displacement along these faults helped shape the current landscape of the region. One of these fault systems is called the Katrol Hill Fault (KHF), bordered by the Katrol Hill Range. My project involved mapping the KHF fault segments to determine the variation in geometry of the thrust sheet. Displacement along this fault generated a fault propagation fold (FPF) with a slight variation in orientation due to fault rotation. The fault zone rocks, mostly sandstones with variable quantities of quartz and mica grains, experienced shallow crustal deformation. We determined the strain experienced by these rocks using the Normalized Fry method along a transport parallel transect. Tha hanging wall recorded higher strain than the footwall rocks. The microstructures developed in these rocks showed evidences of brittle fracturing and cataclastic flow, suggesting deformation in an elastico-frictional regime. 
   
-How to add captions?
-
 ![an image alt text]({{ site.baseurl }}/images/Rann.jpg "RannofKutchfieldvisit")
+<span style="font-size:16px;">At the Rann of Kutch, one of the largest salt deserts in the world, during a field camp in Gujarat-India. </span>
+
 ![an image alt text]({{ site.baseurl }}/images/Hiroshima3.jpg "posterphoto")
+<span style="font-size:16px;">Presenting my Master's work at the 1st International Symposium of the Hiroshima Institute of Plate Convergence Region Research at Hiroshima University, Japan. </span>
+
  
 
 **Microstructural investigation of the Towanda Fault Zone in the Appalachian Plateau, Pennsylvania, USA.**
@@ -40,7 +46,11 @@ How to add captions?
 _[Summer Internship Blog for SN Bose](https://www.winstepforward.org/blog/2018/08/meghomita-das-summer-2017-blog/)_
 
 ![an image alt text]({{ site.baseurl }}/images/Towanda1.jpg "Towanda map")
+<span style="font-size:16px;">Mapping out a segment of the Towanda Fault Zone, in northeastern Pennsylvania-USA.</span>
+
 ![an image alt text]({{ site.baseurl }}/images/MEGHOMITADAS2.jpg "Shenandoah")
+<span style="font-size:16px;">At Shenandoah National Park during a field trip to explore the deformation structures of the Appalachian Mountains, USA.</span>
+
 
 **Optically Stimulated Luminescence (OSL) Dating : Sample processing & analysis of Quaternary sediments from the western Indian basin of Gujarat**
 
