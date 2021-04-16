@@ -9,7 +9,7 @@ permalink: /about/
 
 _Structural Geology &#x7c; Microtectonics &#x7c; Rheology_
 
-**_How to pronounce my name: A guide_** [&#128266;] <br>
+**_How to pronounce my name: A guide_** [&#128266;](Name recording .mp4)<br>
 
 **About Me** (pronouns: she/her) <br>
 I am a PhD candidate in the Department of Earth & Planetary Sciences, at McGill University. I study how earthquakes form and the way they transfer energy to the surface by examining the rock record of ancient earthquakes. I am working at Angel Island, California to unravel the rock signatures of deep tremor and slow slip in subduction zones. Using a combination of field mapping and analytical techniques like optical and electron microscopy, I plan to uncover the mechanisms behind deep tremor. <br>
