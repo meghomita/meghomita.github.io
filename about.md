@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
   
-**_Exploring the rock record for slow earthquake signatures._**
+**_Currently exploring the rock record for slow earthquake signatures._**
 
 _Structural Geology &#x7c; Microtectonics &#x7c; Rheology_
 
