@@ -56,5 +56,3 @@ _[Summer Internship Blog for SN Bose](https://www.winstepforward.org/blog/2018/0
   
   
 
-![an image alt text]({{ site.baseurl }}/images/xkcd.jpg "Credits: xkcd")
-
