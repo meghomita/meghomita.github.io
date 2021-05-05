@@ -21,7 +21,7 @@ c)_McGill Office of Science Education article on virtual field trips: [Storytell
 
   This project was developed in collaboration with the Department of Earth and Planetary Sciences, McGill University, Canada and the Redpath Museum of Natural History, Canada. This project consists of a set of virtual field trip guides, hosted on Google Earth platform. I was responsible for developing the *Building Stones of Montreal, Canada* guide. This trip is available in both French and English and is tuned towards geoscience enthusiasts at undergrad, CEGEP/High School level. The eleven locations of this trip spotlights different rock types used to construct the buildings, the quarries that supplied these rocks and how these stones shaped the architecture of this city. Each location features a short explanatory text, aided with videos of geologists explaining the geology of the building stones. I was responsible for developing the content of this field trip with media contribution from McGill's media team. This trip is supported on all devices, making this field guide more accessible. Other trips included in this project are: Kaleidoscope of research on Mont Saint Hilaire, Canada; Geology of Mont Royal.
   
-a)_[Metro@Montegie project](https://www.mcgill.ca/eps/virtual-fieldtrips)_
+a)_[Metro@Monteregie project](https://www.mcgill.ca/eps/virtual-fieldtrips)_
 
 b)_[WinSTEP forward blog post about the project](https://www.winstepforward.org/blog/2020/10/field-trips-time-covid-19/)_
 
