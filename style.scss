@@ -341,3 +341,9 @@ img[src*='#left'] {
     max-width: 50%;
     padding: 20px;
 }
+
+img[src*='#right'] {
+    float: right;
+    max-width: 50%;
+    padding: 20px;
+}
