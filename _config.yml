@@ -6,10 +6,10 @@
 name: Meghomita Das 
 
 # Short bio or description (displayed in the header)
-description: Geologist
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.meredith.edu/assets/images/headshots/carrington_obrion.jpg
+avatar:
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: 
   instagram: meghomita
-  linkedin:
+  linkedin: meghomita-das-2003
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: meghomita
