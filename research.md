@@ -56,6 +56,7 @@ _[Summer Internship Blog for SN Bose](https://www.winstepforward.org/blog/2018/0
 **Land Acknowledgement**
 
   McGill University is based in Tiohtiá:ke/Montreal, the traditional and unceded territory of the Kanien’keha:ka (Mohawk) - a place which has long served as a site of meeting and exchange amongst many First Nations including the Kanien’kehá:ka of the Haudenosaunee Confederacy (also referred to as the Iroquois or Six Nations Confederacy), Huron/Wendat, Abenaki, and Anishinaabeg. As a field-based researcher, I am constantly working on lands that belong to Indigenous nations. At Angel Island-California, I am working on the lands of Coast Miwok, Muwekma and Graton Rancheria nations. At Towanda-Pennsylvania, I worked on the lands of Haudenosaunee Confederacy and Susquehannock nation. At Kutch-India, I worked on the lands of several Kutch tribes, namely: Rabari, Ahir, Jats, Harijans, Sodha, Mutwa, and Node. I acknowledge and thank the nations whose lands I got the opportunity to work on. 
+  References: _[Native Lands](https://native-land.ca/)_ and _[Tribes of Kutch](https://www.indianetzone.com/20/tribes_kutch.htm)_
 
   
   
