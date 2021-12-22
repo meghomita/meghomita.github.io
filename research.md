@@ -15,7 +15,7 @@ earthquakes.
 Ancient subduction zone rocks are found in a few places at the Earth’s surface and can reveal the mechanisms of locking and slip that produce slow, silent earthquakes. Through field studies and microstructural analyses, I will determine which processes cause these events and investigate the mechanisms behind slow slip. These estimates can be used to constrain tectonic loading (stress accumulation) which controls the earthquake magnitude (size of the earthquake) and recurrence (time till the next large earthquake).
 
 _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
-_[AGU Fall Meeting 2021 poster](agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=0A-79-E3-B7-41-0F-62-40-5E-8C-2C-72-C3-45-1F-FB)_
+_[AGU Fall Meeting 2021 poster](https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=0A-79-E3-B7-41-0F-62-40-5E-8C-2C-72-C3-45-1F-FB)_
 
  
 ![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")
