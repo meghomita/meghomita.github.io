@@ -16,6 +16,12 @@ Ancient subduction zone rocks are found in a few places at the Earth’s surface
 
 _[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
 
+My _[podcast interview](https://www.podcavern.com/e16-listening-for-slow-earthquakes-with-meghomita-das/)_ with the good folks at Learn Real Good Podcast where I talk about my rocks, earthquakes, my research project and food!
+
+If you want to know more about what I am currently working on, please visit my blog series linked _[here](https://meghomita.com/blog5/)_.
+
+
+
 
  
 ![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")
