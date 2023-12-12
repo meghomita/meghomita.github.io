@@ -9,12 +9,16 @@ I worked on a variety of projects in the field of Structural Geology during my M
 
 **Deep Subduction Zone Dynamics**
 
-  Subduction zones, where one tectonic plate dives under the other, host large earthquakes. About 20 years ago, scientists detected faint tremors coming from deep parts of subduction zones. In Cascadia, this signal was called deep tremor and slip. The tremors were accompanied by the shift of the land surface toward the
-ocean. These signals appear to be revealing deep, slow, nearly silent earthquakes which transfer stress up into the locked zone, where large earthquakes originate. I propose to examine rocks which come from this deep zone, which have been brought to the surface by tectonic uplift and erosion, to investigate the mechanisms of slow, silent
-earthquakes.
-Ancient subduction zone rocks are found in a few places at the Earth’s surface and can reveal the mechanisms of locking and slip that produce slow, silent earthquakes. Through field studies and microstructural analyses, I will determine which processes cause these events and investigate the mechanisms behind slow slip. These estimates can be used to constrain tectonic loading (stress accumulation) which controls the earthquake magnitude (size of the earthquake) and recurrence (time till the next large earthquake).
+  Subduction zones, where one tectonic plate dives under the other, host large earthquakes. About 20 years ago, scientists detected faint tremors coming from deep parts of subduction zones. In Cascadia, this signal was called deep tremor and slip. The tremors were accompanied by the shift of the land surface toward the ocean. These signals appear to be revealing deep, slow, nearly silent earthquakes which transfer stress up into the locked zone, where large earthquakes originate. I propose to examine rocks which come from this deep zone, which have been brought to the surface by tectonic uplift and erosion, to investigate the mechanisms of slow, silent earthquakes.
+Ancient subduction zone rocks are found in a few places at the Earth’s surface and can reveal the mechanisms of locking and slip that produce slow, silent earthquakes. Through field studies and microstructural analyses, I am trying to investigate the structural evolution of the accretionary wedge and understand the deformation mechanisms active within the rocks that contain potential signatures of slow earthquakes. My current project will provide a better understanding of development of structures within subducted rocks and their grain-scale deformation mechanisms that controls the stress accumulation, the earthquake magnitude and recurrence (time till the next large earthquake) of subduction earthquakes.
 
-_[AGU Fall Meeting 2020 poster](https://agu2020fallmeeting-agu.ipostersessions.com/?s=7F-C2-CB-63-EC-CF-AD-76-52-69-63-4F-8E-D7-C9-20)_
+_[Google Scholar](https://scholar.google.com/citations?user=2eY9n_oAAAAJ)_
+
+Latest publication:
+
+Das, M., Anfinson, O., Rowe, C. D., and Schroeder, N. (in review) Age, sedimentology and deformation history of the Mesozoic Franciscan Accretionary Complex, Angel Island, California, GSA Bulletin.
+
+_[Talk presented at European Geosciences Union Annual Meeting 2023](https://docs.google.com/presentation/d/1aJC4PRQc7CG-ZPBCJAuS9eAz5-1QmAiO/edit?usp=sharing&ouid=115453914873558673854&rtpof=true&sd=true)_
 
 My _[podcast interview](https://www.podcavern.com/e16-listening-for-slow-earthquakes-with-meghomita-das/)_ with the good folks at Learn Real Good Podcast where I talk about my rocks, earthquakes, my research project and food!
 
