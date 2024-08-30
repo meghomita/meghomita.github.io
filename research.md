@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I worked on a variety of projects in the field of Structural Geology during my Masters and summer internships. I am broadly interested in fault mechanics and deformation behavior of fault rocks across a range of observational scales. I have worked in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep depths along cold subduction zones). Currently, I am in Prof Christie Rowe's [Field Rheology Research group](https://www.eps.mcgill.ca/~crowe/) . Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
+I worked on a variety of projects in the field of Structural Geology during my Masters and summer internships. I am broadly interested in fault mechanics and deformation behavior of fault rocks across a range of observational scales. I have worked in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep depths along cold subduction zones). I was part of Prof Christie Rowe's [Field Rheology Research group](https://www.eps.mcgill.ca/~crowe/), now at University of Nevada-Reno . Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
 
 
 **Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary from the overriding to the downgoing plate**
