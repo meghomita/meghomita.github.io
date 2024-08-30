@@ -17,7 +17,7 @@ _[Google Scholar](https://scholar.google.com/citations?user=2eY9n_oAAAAJ)_
 
 Latest publication:
 
-Das, M., Anfinson, O., Rowe, C. D., and Schroeder, N. (in press) Age, sedimentology and deformation history of the Mesozoic Franciscan Accretionary Complex, Angel Island, California, GSA Bulletin.
+Das, M., Anfinson, O., Rowe, C. D., and Schroeder, N. (in press) [Age, sedimentology and deformation history of the Mesozoic Franciscan Accretionary Complex, Angel Island, California, GSA Bulletin](https://doi.org/10.1130/B37239.1).
 
 _[Talk presented at European Geosciences Union Annual Meeting 2023](https://docs.google.com/presentation/d/1aJC4PRQc7CG-ZPBCJAuS9eAz5-1QmAiO/edit?usp=sharing&ouid=115453914873558673854&rtpof=true&sd=true)_
 
