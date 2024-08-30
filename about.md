@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
   
-**_Currently wrapping up my research on deep subduction dynamics and deformation mechanisms_**
+**_Seeking postdoctoral positions and science communication work opportunities_**
 
 _Structural Geology &#x7c; Microtectonics &#x7c; Rheology_
 
