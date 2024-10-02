@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-![an image alt text]({{ site.baseurl }}/images/geologist.png "Comic about geologist")
+![an image alt text]({{ site.baseurl }}/images/geologist.png "Comic about geologist" #center)
 <span style="font-size:16px;">Credits: Creator of xkcd webcomic: *Randall Munroe* </span>
 
 
