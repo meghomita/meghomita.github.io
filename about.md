@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
   
-**_Seeking postdoctoral positions and science communication work opportunities_**
+**_Seeking work and research opportunities in the field of earthquake sciences_**
 
 _Structural Geology &#x7c; Microtectonics &#x7c; Rheology_
 
