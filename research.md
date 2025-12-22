@@ -20,6 +20,7 @@ I have worked on a variety of projects in the field of Structural Geology during
 _[Google Scholar](https://scholar.google.com/citations?user=2eY9n_oAAAAJ)_
 
 Latest publication:
+
 My thesis, [Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary interface from the overriding to the downgoing plate](https://escholarship.mcgill.ca/concern/theses/zg64ts442).
 
 Das, M., Anfinson, O., Rowe, C. D., and Schroeder, N., [Age, sedimentology and deformation history of the Mesozoic Franciscan Accretionary Complex, Angel Island, California, GSA Bulletin](https://doi.org/10.1130/B37239.1).
