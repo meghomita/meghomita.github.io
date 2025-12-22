@@ -8,7 +8,7 @@ permalink: /research/
 <span style="font-size:14px;">Credits: *Randall Munroe*, creator of xkcd webcomic </span>
 
 
-I have worked on a variety of projects in the field of Structural Geology during my geosciences career thus far. I am broadly interested in rock deformation behavior and the way it manifests across a range of observational scales, from regional geology scale down to microstructures. I have had the privilege of conducting in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep depths along cold subduction zones). I was part of Prof Christie Rowe's Field Rheology Research group, now at University of Nevada-Reno. Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
+I have worked on a variety of projects in the field of Structural Geology during my geosciences career thus far. I am broadly interested in rock deformation behavior and the way it manifests across a range of observational scales, from regional geology scale down to microstructures. I have had the privilege of conducting fieldwork in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep tremorgenic source depths). I was part of Prof Christie Rowe's Field Rheology Research group at McGillU, who is now at University of Nevada-Reno. Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
 
 
 **Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary from the overriding to the downgoing plate**
