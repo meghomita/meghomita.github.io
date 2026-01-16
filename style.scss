@@ -396,6 +396,29 @@ img[src*='#right'] {
   }
 }
 
+.filter-controls {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+  .clear-filter {
+    display: inline-block;
+    font-family: 'Arvo', sans-serif;
+    font-size: 14px;
+    color: #fcf9ea;
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    transition: background-color 0.2s;
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+      text-decoration: none;
+    }
+  }
+}
+
 .date-list, .tag-list {
   list-style: none;
   padding: 0;
@@ -432,6 +455,11 @@ img[src*='#right'] {
             opacity: 0.8;
             text-decoration: underline;
           }
+
+          &.active {
+            font-weight: 700;
+            text-decoration: underline;
+          }
         }
       }
     }
@@ -444,6 +472,11 @@ img[src*='#right'] {
 
       &:hover {
         opacity: 0.8;
+        text-decoration: underline;
+      }
+
+      &.active {
+        font-weight: 700;
         text-decoration: underline;
       }
     }
@@ -463,6 +496,11 @@ img[src*='#right'] {
 
       &:hover {
         opacity: 0.8;
+        text-decoration: underline;
+      }
+
+      &.active {
+        font-weight: 700;
         text-decoration: underline;
       }
     }
