@@ -16,7 +16,7 @@ I am an earth science researcher with specialization in structural geology and g
   <li>Geologist-in-Training Licensed (APEGA)</li>
 </ul>
 
-**Skillsets** <br>
+<h2>Skillsets</h2>
 <ul>
   <li>Software/Programming Skills: ArcGIS/QGIS, Strabospot, MOVE, Agisoft, Matlab, Python, acQuire, Visual Logger, Leapfrog, Vulcan.</li>
   <li>Analytical Skills: SEM, EBSD, LA-ICP-MS, EDS, Raman Spectroscopy</li>
@@ -24,22 +24,24 @@ I am an earth science researcher with specialization in structural geology and g
   <li>Language Competency: English (Fluent), Spanish (Beginner), French (Beginner).</li>
 </ul><br>
 
-**Education** <br>
+<h2>Education</h2>
 <ul>
   <li> Ph.D. Earth and Planetary Sciences, McGill University: September 2019-December 2024</li>
   <ul>
     <li>Supervisor: Dr. Christie Rowe</li>
     <li>Thesis: Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary from the overriding to the downgoing plate </li>
   </ul>
+  <br>
   <li> MSc Applied Geology, Indian Institute of Technology Bombay: July 2016-August 2019</li>
   <ul>
     <li>PG Diploma in Earth Sciences: Geoexploration</li>
     <li>Dissertation Project: Lateral variation along the Katrol Hill Fault, Gujarat, India</li>
   </ul>
+  <br>
   <li> BSc Geology, St Xavier's College, Mumbai</li>
-</ul> <br>
+</ul> 
 
-**Work Experience** <br>
+<h2>Work Experience</h2>
 <ul>
   <li> Core Logging Geologist (Exploration), Bayside Geosciences: May 2025-Present</li>
   <ul>
