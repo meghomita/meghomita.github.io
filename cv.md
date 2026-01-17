@@ -14,7 +14,7 @@ I am an earth science researcher with specialization in structural geology and g
   <li>8+ years of fieldwork and laboratory experience in tectonic settings across US, Canada, and India.</li>
   <li>7+ years of experience in project management and experimental design.</li>
   <li>Geologist-in-Training Licensed (APEGA)</li>
-</ul><br>
+</ul>
 
 **Skillsets** <br>
 <ul>
@@ -44,25 +44,23 @@ I am an earth science researcher with specialization in structural geology and g
   <li> Core Logging Geologist (Exploration), Bayside Geosciences: May 2025-Present</li>
   <ul>
     <li>On site at Musselwhite Gold Mine, Orla Mining Ltd.</li>
-    <li>Geology and Geotechnical oriented core logging of structurally complex, BIF-hosted orogenic gold deposits (Surface and Underground Exploration logging) using **acQuire, Vulcan, Leapfrog**.</li>
+    <li>Geology and Geotechnical oriented core logging of structurally complex, BIF-hosted orogenic gold deposits (Surface and Underground Exploration logging) using acQuire, Vulcan, Leapfrog.</li>
     <li>Documentation of structural features to better understand the mineralization geometry.</li>
   </ul>
-  
-  
+  <br>
   <li> Mine Site Trainee (Production), TATA Steel Ltd.: 2017</li>
   <ul>
     <li>Trained in primary & secondary in-situ ore processing systems for open-pit mines.</li>
     <li>Proficient in upstream and downstream processes of extraction of ore, development of mine plans, geotechnical study and face mapping of open-pit, storage, and dispatch of ore.</li>
     <li>Collected and analysed of core samples for petrographical studies and integrated the chemical analysis data using GPS to enable on-site, and real-time visualization of chemical data.</li>
   </ul>
-
-  
+  <br>
   <li> Science Communication Research Assistant, McGill University: Jan 2023-Aug 2024</li>
   <ul>
     <li>Analyzed 100+ participant data and drafted reports on the perception of science communication with STEM fields.</li>
     <li>Mentored 6 undergraduate research assistants. Edited blog posts for the office’s blog website with positive engagement across McGill’s media channels.</li>
   </ul>
-</ul> <br>
+</ul> 
 
 
 
