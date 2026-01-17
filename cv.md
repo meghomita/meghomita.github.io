@@ -7,7 +7,7 @@ permalink: /cv/
 Access my full CV [here](http://www.meghomita.com/CVLatest.pdf).
 
 <h2>Overview</h2>
-I am an earth science researcher with specialization in structural geology and geological mapping. Over the years, I have led and developed several projects from initial ideation, dataset integration and analysis to final completion, accompanied by peer-reviewed publications and technical reports. I am interested in roles that allow me to bring my extensive multi-disciplinary research expertise to applied geoscience projects.<br>
+<p>I am an earth science researcher with specialization in structural geology and geological mapping. Over the years, I have led and developed several projects from initial ideation, dataset integration and analysis to final completion, accompanied by peer-reviewed publications and technical reports. I am interested in roles that allow me to bring my extensive multi-disciplinary research expertise to applied geoscience projects.</p>
 
 <ul>
   <li>10+ years of research experience across multiple sub-disciplines in Earth Sciences.</li>
@@ -22,7 +22,7 @@ I am an earth science researcher with specialization in structural geology and g
   <li>Analytical Skills: SEM, EBSD, LA-ICP-MS, EDS, Raman Spectroscopy</li>
   <li>Designing Software: Affinity Design Suite, Adobe Creative Suite, Canva, Procreate</li>
   <li>Language Competency: English (Fluent), Spanish (Beginner), French (Beginner).</li>
-</ul><br>
+</ul>
 
 <h2>Education</h2>
 <ul>
