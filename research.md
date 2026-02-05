@@ -9,6 +9,9 @@ permalink: /research/
 
 My research focuses on structural geology, around the themes of rock deformation behavior and the way it manifests across a range of observational scales. I have had the privilege of conducting fieldwork in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep tremorgenic source depths). Here is a brief description of the projects that I had the pleasure of working on. 
 
+[_Google Scholar_:](https://scholar.google.com/citations?user=2eY9n_oAAAAJ&hl=en&oi=ao) 
+
+
 
 **Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary from the overriding to the downgoing plate**
 
