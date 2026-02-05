@@ -7,35 +7,25 @@ permalink: /research/
 ![an image alt text]({{ site.baseurl }}/images/geologist.png#center) <br>
 <span style="font-size:14px;">Credits: *Randall Munroe*, creator of xkcd webcomic </span>
 
-
-I have worked on a variety of projects in the field of Structural Geology during my geosciences career thus far. I am broadly interested in rock deformation behavior and the way it manifests across a range of observational scales, from regional geology scale down to microstructures. I have had the privilege of conducting fieldwork in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep tremorgenic source depths). I was part of Prof Christie Rowe's Field Rheology Research group at McGillU, who is now at University of Nevada-Reno. Here is a brief description of my PhD research project and the other projects that I had the pleasure of working on. 
+My research focuses on structural geology, around the themes of rock deformation behavior and the way it manifests across a range of observational scales. I have had the privilege of conducting fieldwork in different tectonic settings, from fold-thrust belts to subduction zones and across different depths (from shallow crusts to deep tremorgenic source depths). Here is a brief description of the projects that I had the pleasure of working on. 
 
 
 **Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary from the overriding to the downgoing plate**
 
-  Subduction zones, where one tectonic plate dives under the other, host large earthquakes. Studying exhumed subduction rocks provides us with a direct way to understand the composition, structure and rheology of the subduction plate boundaries. Plate boundary zones accommodate plate motion through earthquakes at shallow depths and by stable aseismic sliding at the deeper depths. In between lies a zone that shows transitional behavior, called slow slip and tremor events, as seen in active subduction zones. This transitional zone controls the depth at which large earthquakes can occur by transfering stress into the earthquake-producing zone. 
+  Subduction zones host some of the world's largest earthquakes and accommodates stable aseismic sliding. In between these end spectrum behaviors, lies a transitional zone that hosts slow slip and tremor events that controls the depth at which large earthquakes can occur by transfering stress into the earthquake-producing zone. I investigated the evolution of an exhumed subduction zone (Franciscan Subduction Complex, California) by mapping a unit (Angel Island) within the subduction complex that contains rock suites that is correlated to the source region of deep slow slip and tremor. Using a combination of field mapping, microstructural analysis and geochronology, we uncovered the subduction architecture of the Angel Island unit while gaining insights about the grain-scale deformation behavior within rocks that capture the paleo-environment of deep slow slip and tremor. Find out more about the entire project in [my thesis](https://escholarship.mcgill.ca/concern/theses/zg64ts442)
   
-  My project investigated the evolution of an exhumed subduction zone (Franciscan Subduction Complex, California) by mapping a unit (Angel Island) within the subduction complex that contains rock suites that is correlated to the source region of deep slow slip and tremor. My multidisciplinary approach incorporated field observations, microstructural analysis, and geochronology to present the subduction architecture of the Franciscan forearc accretionary wedge as seen at Angel Island. Our work also revealed the complex depositional history of trench sediments as they incorporated into the Franciscan Subduction Complex. Finally, we look at grain-scale deformation behavior seen in rocks that capture the paleo-environment of deep slow slip and tremor along a fossil plate boundary interface that outcrops on the island. Our first paper from this project is out now on GSA Bulletin. Stay tuned for upcoming publications from this project. 
-  
-_[Google Scholar](https://scholar.google.com/citations?user=2eY9n_oAAAAJ)_
+Other media related to this project:
+_[Podcast Interview](https://www.podcavern.com/e16-listening-for-slow-earthquakes-with-meghomita-das/)_ with the good folks at Learn Real Good Podcast where I talk about my rocks, earthquakes, my research project and food!
 
-Latest publication:
-
-My thesis, [Subduction Sandwich: Investigating the evolution and deformation of a subduction plate boundary interface from the overriding to the downgoing plate](https://escholarship.mcgill.ca/concern/theses/zg64ts442).
-
-Das, M., Anfinson, O., Rowe, C. D., and Schroeder, N., [Age, sedimentology and deformation history of the Mesozoic Franciscan Accretionary Complex, Angel Island, California, GSA Bulletin](https://doi.org/10.1130/B37239.1).
-
-_[Talk presented at European Geosciences Union Annual Meeting 2023](https://docs.google.com/presentation/d/1aJC4PRQc7CG-ZPBCJAuS9eAz5-1QmAiO/edit?usp=sharing&ouid=115453914873558673854&rtpof=true&sd=true)_
-
-My _[podcast interview](https://www.podcavern.com/e16-listening-for-slow-earthquakes-with-meghomita-das/)_ with the good folks at Learn Real Good Podcast where I talk about my rocks, earthquakes, my research project and food!
-
-If you want to know more about what I am currently working on, please visit my blog series linked _[here](https://meghomita.com/blog5/)_.
+**Accretionary ages of subduction trench sediments**
+Detrital zircon grains, present within sediments, contain Uranium and Thorium elements that can be used to calculate the age of sedimentary rocks as well as gain insights about the source region of the sediments through their radioactive decay reactions. We used U-Pb detrital zircon geochronology to calculate the depositional age of the clastic rocks that incorporated into the Franciscan Subduction Complex and formed the present-day clastic stratigraphy of Angel Island. Our work revealed episodic deposition of the clastic units as well as diverse sources for the Angel Island metaclastic units with each unit tracing different stages of metamorphic history. Find out more about in [Das et al., 2025](https://doi.org/10.1130/B37239.1) in _GSA Bulletin_.
 
 
+**Deformation of blueschist mylonite: Insights from Angel Island, Franciscan Complex**
+As subduction zones accommodates plate boundary deformation, rocks undergo high pressure-low temperature metamorphism and incorporate progressive strain as we move closer and closer to the subduction interface. We investigated the grain-scale deformation behavior of high pressure-low temperature metamorphic minerals within a blueschist mylonite along a paleo-subduction interface preserved on Angel Island. Using EBSD, we mapped the distortion within individual mineral grains as we approached the paleo-subduction interface to quantify the strain hosted within the mylonites. We identified an interplay between dislocation creep mechanism hosted within quartz and diffusive-mass transfer mechanism hosted within amphibole minerals (riebeckite and stilpnomelane) that collectively incorporated strain along the subduction interface. For more details, check out _[this talk presented at European Geosciences Union Annual Meeting 2023](https://docs.google.com/presentation/d/1aJC4PRQc7CG-ZPBCJAuS9eAz5-1QmAiO/edit?usp=sharing&ouid=115453914873558673854&rtpof=true&sd=true)_.
 
 
- 
-![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")
+ ![an image alt text]({{ site.baseurl }}/images/Angel Island.jpg "ferry angel island")
 <span style="font-size:16px;">At the Tiburon ferry site, enroute to Angel Island, California. </span>
 
 ![an image alt text]({{ site.baseurl }}/images/IMG0020.jpg "angelislandoutcrop")
