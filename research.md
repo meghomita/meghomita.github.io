@@ -26,6 +26,7 @@ _[Podcast Interview](https://www.podcavern.com/e16-listening-for-slow-earthquake
 <hr/>
 
 **Accretionary ages of subduction trench sediments** <br>
+
 Detrital zircon grains, present within sediments, contain Uranium and Thorium elements that can be used to calculate the age of sedimentary rocks as well as gain insights about the source region of the sediments through their radioactive decay reactions. We used U-Pb detrital zircon geochronology to calculate the depositional age of the clastic rocks that incorporated into the Franciscan Subduction Complex and formed the present-day clastic stratigraphy of Angel Island. Our work revealed episodic deposition of the clastic units as well as diverse sources for the Angel Island metaclastic units with each unit tracing different stages of metamorphic history. Find out more about in [Das et al., 2025](https://doi.org/10.1130/B37239.1) in _GSA Bulletin_.
 
  ![an image alt text]({{ site.baseurl }}/images/zirconCL.jpg "zircon grains mounted for geochronological analysis")
@@ -34,6 +35,7 @@ Detrital zircon grains, present within sediments, contain Uranium and Thorium el
 <hr/>
 
 **Deformation of blueschist mylonite: Insights from Angel Island, Franciscan Complex** <br>
+
 As subduction zones accommodates plate boundary deformation, rocks undergo high pressure-low temperature metamorphism (blueschist facies metamorphic conditions) and incorporate progressive strain as we move closer and closer to the subduction interface. We investigated the grain-scale deformation behavior of high pressure-low temperature metamorphic minerals within a blueschist mylonite along a paleo-subduction interface preserved on Angel Island. Using EBSD, we mapped the distortion within individual mineral grains as we approached the paleo-subduction interface to quantify the strain hosted within the mylonites. We identified an interplay between dislocation creep mechanism hosted within quartz and diffusive-mass transfer mechanism hosted within amphibole minerals (riebeckite and stilpnomelane) that collectively incorporated strain along the subduction interface. For more details, check out _[this talk presented at European Geosciences Union Annual Meeting 2023](https://docs.google.com/presentation/d/1aJC4PRQc7CG-ZPBCJAuS9eAz5-1QmAiO/edit?usp=sharing&ouid=115453914873558673854&rtpof=true&sd=true)_.
 
 ![an image alt text]({{ site.baseurl }}/images/rbk.jpg "cluster of riebeckite in metachert")
@@ -56,7 +58,7 @@ As subduction zones accommodates plate boundary deformation, rocks undergo high 
 
 _[Summer Internship Blog for SN Bose](https://www.winstepforward.org/blog/2018/08/meghomita-das-summer-2017-blog/)_
 
-![an image alt text]({{ site.baseurl }}/images/Towanda1.jpg "Towanda map")
+![an image alt text]({{ site.baseurl }}/images/Towanda1.jpg "Towanda map")<br>
 <span style="font-size:16px;">Mapping out a segment of the Towanda Fault Zone, in northeastern Pennsylvania-USA.</span>
 
 <hr/>
