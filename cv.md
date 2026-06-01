@@ -43,7 +43,16 @@ Access my full CV [here](CVLatest.pdf).
 
 <h2>Work Experience</h2>
 <ul>
-  <li> Core Logging Geologist (Exploration), Bayside Geosciences: May 2025-Present</li>
+  <li> Exploration GIT, Muuselwhite Gold Mine, Orla Mining Ltd.: May 2026-Present</li>
+  <ul>
+    <li>Geology and Geotechnical oriented core logging of structurally complex, BIF-hosted orogenic gold deposits (Surface and Underground Exploration logging) using acQuire, Vulcan, Leapfrog.</li>
+    <li>Documentation of structural features to better understand the mineralization geometry.</li>
+    <li>Fieldwork for drill collaring, rig inspection, brownfields drill planning.</li>
+    <li>Assist with drill core logging and sampling management and organization, reporting, and survey data entry.</li>
+  </ul>
+  <br>
+<ul>
+  <li> Core Logging Geologist (Exploration), Bayside Geosciences: May 2025-May 2026</li>
   <ul>
     <li>On site at Musselwhite Gold Mine, Orla Mining Ltd.</li>
     <li>Geology and Geotechnical oriented core logging of structurally complex, BIF-hosted orogenic gold deposits (Surface and Underground Exploration logging) using acQuire, Vulcan, Leapfrog.</li>
